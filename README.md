@@ -1,5 +1,7 @@
 FECS
-==========
+====
+
+### fork 项目，主要修改了checkstyle在webstorm error变成warning的问题
 
 FECS 是基于 Node.js 的前端代码风格工具。
 
@@ -14,7 +16,7 @@ FECS 是基于 Node.js 的前端代码风格工具。
 ### 安装
 
 ```
-    $ [sudo] npm install fecs -g
+    $ [sudo] npm install https://github.com/zimengle/fecs.git -g
 ```
 
 ### 使用
